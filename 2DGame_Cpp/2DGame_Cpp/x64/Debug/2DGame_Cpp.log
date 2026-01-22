@@ -1,0 +1,11 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in C:\CppGame\2DGame_Cpp\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  DXDevice.cpp
+  Game.cpp
+  Input.cpp
+  main.cpp
+  Renderer.cpp
+  Timer.cpp
+  WinApp.cpp
+  Window.cpp
+  コードを生成中...
+  2DGame_Cpp.vcxproj -> C:\CppGame\2DGame_Cpp\x64\Debug\2DGame_Cpp.exe
